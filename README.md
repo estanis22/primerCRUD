@@ -1,7 +1,7 @@
 # PrimerCRUD
 Este proyecto es una aplicación web desarrollada durante el curso de programación web full stack de Digital House. Gran parte del código fue proporcionado por el curso.
 
-## Descripción
+## Descripción
 El objetivo del proyecto es crear un CRUD completo para productos, permitiendo crear, editar y borrar elementos. La aplicación utiliza un archivo JSON como base de datos y las rutas implementan los métodos HTTP GET, POST, PUT y DELETE.
 
 Además, para el manejo de imágenes de los productos, la aplicación utiliza Multer, una librería de Node.js que facilita la gestión de archivos enviados mediante formularios en HTML.
@@ -30,7 +30,7 @@ The aim of this project is to create a complete CRUD for products, allowing for 
 
 In addition, the application uses Multer, a Node.js library that simplifies the management of files sent through HTML forms, to handle product images.
 
-## Requirements
+## Requirements
 To run the application, you need to have Node.js and npm installed, both in their latest version.
 
 ## Installation
@@ -42,6 +42,7 @@ To install the project dependencies, run the following command in the terminal:
 To start the application, run the following command in the terminal:
 
 "npm start"
+
 The application will be available at http://localhost:3000.
 
 Thank you for using PrimerCRUD!
